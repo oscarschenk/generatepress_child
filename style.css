@@ -8,3 +8,6 @@
  Version:      0.1
 */
 
+body {
+  background-color: red !important;
+}
